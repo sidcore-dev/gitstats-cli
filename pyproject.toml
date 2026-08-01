@@ -18,6 +18,11 @@ classifiers = [
     "Topic :: Software Development :: Build Tools",
 ]
 
+[project.urls]
+Homepage = "https://github.com/sidcore-dev/gitstats-cli"
+Repository = "https://github.com/sidcore-dev/gitstats-cli"
+Issues = "https://github.com/sidcore-dev/gitstats-cli/issues"
+
 [project.scripts]
 gitstats-cli = "gitstats_cli.cli:main"
 
