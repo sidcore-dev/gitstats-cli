@@ -4,6 +4,8 @@ A small, dependency-free command-line tool that summarizes a git
 repository's commit history: commits per author, commits per day of the
 week, and the most-frequently-changed files.
 
+![demo](demo.gif)
+
 ## Why
 
 `git log` has all this information buried in it, but reading it as a
